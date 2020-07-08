@@ -6,4 +6,4 @@ It is not aimed at causing financial loss to anyone. I hope no one will use this
 
 Thank you.
 
-![Not available](https://raw.githubusercontent.com/Mesbah214/simple_scraper/master/screenshots/2020-07-08-%4000-37-54.png = 341x192)
+<img src= "https://raw.githubusercontent.com/Mesbah214/simple_scraper/master/screenshots/2020-07-08-%4000-37-54.png" width="683" height="384" />
